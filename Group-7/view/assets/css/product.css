@@ -15,6 +15,10 @@
   
   /* nav design  */
   
+ 
+
+
+  
   nav{
     display: flex;
     justify-content: center;
@@ -158,4 +162,7 @@ footer{
     footer div h1 {
       text-align: center;
     }
+
+
+
   }

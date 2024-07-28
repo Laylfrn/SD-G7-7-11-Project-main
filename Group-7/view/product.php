@@ -36,7 +36,7 @@
 <main>
 
   <div class="sample-container">
-    <h1>What's new</h1>
+    <h1 class>What's new</h1>
   </div>
 
   <div class="food-container">
